@@ -15,19 +15,19 @@
   --oui-color-tertiary: 200 233 126;
   --oui-color-quaternary: 244 223 96;
 
-  --oui-color-danger: 245 97 139;
-  --oui-color-danger-light: 250 167 188;
-  --oui-color-danger-darken: 237 72 122;
+  --oui-color-danger: 163 0 0;
+  --oui-color-danger-light: 250 0 0;
+  --oui-color-danger-darken: 163 0 0;
   --oui-color-danger-contrast: 255 255 255;
 
-  --oui-color-success: 41 233 169;
-  --oui-color-success-light: 101 240 194;
-  --oui-color-success-darken: 0 161 120;
+  --oui-color-success: 0 173 20;
+  --oui-color-success-light: 3 204 0;
+  --oui-color-success-darken: 8 142 6;
   --oui-color-success-contrast: 255 255 255;
 
-  --oui-color-warning: 255 209 70;
-  --oui-color-warning-light: 255 229 133;
-  --oui-color-warning-darken: 255 152 0;
+  --oui-color-warning: 254 246 22;
+  --oui-color-warning-light: 249 243 67;
+  --oui-color-warning-darken: 219 201 0;
   --oui-color-warning-contrast: 255 255 255;
 
   --oui-color-fill: 36 32 47;
@@ -47,9 +47,9 @@
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
-  --oui-color-trading-loss: 245 97 139;
+  --oui-color-trading-loss: 235 0 0;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 41 233 169;
+  --oui-color-trading-profit: 0 173 35;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
@@ -66,7 +66,7 @@
   --oui-gradient-danger-end: 245 97 139;
 
   --oui-gradient-brand-start: 28 28 28;
-  --oui-gradient-brand-end:  65 154 250; 
+  --oui-gradient-brand-end: 65 154 250;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
@@ -92,10 +92,6 @@
   --oui-spacing-md: 26.25rem;
   --oui-spacing-lg: 30rem;
   --oui-spacing-xl: 33.75rem;
-}
-
-.oui-scaffold-footer-powered-by {
-  display: none !important;
 }
 
 html, body {
