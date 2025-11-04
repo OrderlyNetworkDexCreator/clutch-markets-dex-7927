@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex, crypto, clutch, predictions",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,de,ru,ko",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#03e207\",\"downColor\":\"#f50014\",\"pnlUpColor\":\"#12d704\",\"pnlDownColor\":\"#f10417\",\"chartBG\":\"#131722\"}"
 };
