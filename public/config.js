@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "A powerful decentralized exchange for seamless trading powered by CLUTCH",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Swap,Vaults,Leaderboard",
+  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Swap,Vaults,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "Predictions, https://ape.clutch.market/; Clutch Puppies, https://clutchpuppies.clutch.markets/; Docs, https://www.clutch-docs.market/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/smooviephonehotline",
