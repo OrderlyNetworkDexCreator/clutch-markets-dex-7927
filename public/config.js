@@ -1,9 +1,10 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "Clutch Perps",
+  "VITE_BROKER_EOA_ADDRESS": "0x4a99dec1ddfb1c8cbe3ee2e2d0365101e6f81b14",
   "VITE_DISABLE_MAINNET": "false",
-  "VITE_DISABLE_TESTNET": "false",
-  "VITE_ORDERLY_MAINNET_CHAINS": "1,10,8453,56,43114,80094,146,1329,900900900,1514,5000,34443,2818,98866,2741",
+  "VITE_DISABLE_TESTNET": "true",
+  "VITE_ORDERLY_MAINNET_CHAINS": "1,10,8453,56,43114,80094,146,1329,900900900,2741,42161",
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "42161",
   "VITE_PRIVY_APP_ID": "",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Swap,Vaults,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "Predictions, https://ape.clutch.market/; Clutch Puppies, https://clutchpuppies.clutch.markets/; Docs, https://www.clutch-docs.market/",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/smooviephonehotline",
   "VITE_DISCORD_URL": "https://discord.gg/TFzrRQ5zch",
@@ -34,5 +36,9 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,de,ru,ko",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#03e207\",\"downColor\":\"#f50014\",\"pnlUpColor\":\"#12d704\",\"pnlDownColor\":\"#f10417\",\"chartBG\":\"#131722\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#03e207\",\"downColor\":\"#f50014\",\"pnlUpColor\":\"#12d704\",\"pnlDownColor\":\"#f10417\",\"chartBG\":\"#131722\"}",
+  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_SYMBOL_LIST": "",
+  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_WHITELISTED_IPS": ""
 };
