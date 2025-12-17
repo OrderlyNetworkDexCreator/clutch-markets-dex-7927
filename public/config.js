@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "clutch-markets",
   "VITE_ORDERLY_BROKER_NAME": "Clutch Perps",
   "VITE_BROKER_EOA_ADDRESS": "0x4a99dec1ddfb1c8cbe3ee2e2d0365101e6f81b14",
   "VITE_DISABLE_MAINNET": "false",
