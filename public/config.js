@@ -36,7 +36,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,de,ru,ko,tr,fr,it,nl,tc,vi,id,pt,pl,uk",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#03e207\",\"downColor\":\"#f50014\",\"pnlUpColor\":\"#12d704\",\"pnlDownColor\":\"#f10417\",\"chartBG\":\"#000000\"}",
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#000000\"}",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "North Korea,Syria",
