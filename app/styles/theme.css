@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'Fira Sans', sans-serif;
-  --oui-font-size-base: 18px;
+  --oui-font-family: 'Source Sans Pro', sans-serif;
+  --oui-font-size-base: 14px;
 
   /* colors */
   --oui-color-primary: 0 255 120;
@@ -11,7 +11,7 @@
   --oui-color-link: 57 255 20;
   --oui-color-link-light: 120 255 100;
 
-  --oui-color-secondary: 0 200 255;
+  --oui-color-secondary: 0 255 238;
   --oui-color-tertiary: 120 255 220;
   --oui-color-quaternary: 200 255 100;
 
@@ -45,7 +45,7 @@
   --oui-color-base-10: 4 8 0;
 
   --oui-color-base-foreground: 180 255 160;
-  --oui-color-line: 0 255 120;
+  --oui-color-line: 111 216 160;
 
   --oui-color-trading-loss: 255 20 80;
   --oui-color-trading-loss-contrast: 255 255 255;
@@ -78,23 +78,23 @@
   --oui-gradient-neutral-end: 20 30 15;
 
   /* rounded */
-  --oui-rounded-sm: 6px;
-  --oui-rounded: 8px;
-  --oui-rounded-md: 6px;
-  --oui-rounded-lg: 8px;
-  --oui-rounded-xl: 12px;
-  --oui-rounded-2xl: 16px;
+  --oui-rounded-sm: 27px;
+  --oui-rounded: 25px;
+  --oui-rounded-md: 26px;
+  --oui-rounded-lg: 25px;
+  --oui-rounded-xl: 27px;
+  --oui-rounded-2xl: 24px;
   --oui-rounded-full: 9999px;
 
   /* spacing */
-  --oui-spacing-xs: 20rem;
-  --oui-spacing-sm: 22.5rem;
-  --oui-spacing-md: 26.25rem;
-  --oui-spacing-lg: 30rem;
-  --oui-spacing-xl: 33.75rem;
+  --oui-spacing-xs: 6rem;
+  --oui-spacing-sm: 7rem;
+  --oui-spacing-md: 6.5rem;
+  --oui-spacing-lg: 8.5rem;
+  --oui-spacing-xl: 16rem;
 }
 
 html, body {
-  font-family: 'Fira Sans', sans-serif !important;
-  font-size: 18px !important;
+  font-family: 'Source Sans Pro', sans-serif !important;
+  font-size: 14px !important;
 }
