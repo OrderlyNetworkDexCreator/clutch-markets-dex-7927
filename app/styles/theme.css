@@ -1,11 +1,11 @@
 :root {
-  --oui-font-family: 'Source Sans Pro', sans-serif;
-  --oui-font-size-base: 14px;
+  --oui-font-family: 'Lato', sans-serif;
+  --oui-font-size-base: 14.5px;
 
   /* colors */
-  --oui-color-primary: 224 251 237;
+  --oui-color-primary: 255 255 255;
   --oui-color-primary-light: 201 238 201;
-  --oui-color-primary-darken: 8 247 8;
+  --oui-color-primary-darken: 92 240 92;
   --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 179 234 169;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Source Sans Pro', sans-serif !important;
-  font-size: 14px !important;
+  font-family: 'Lato', sans-serif !important;
+  font-size: 14.5px !important;
 }
