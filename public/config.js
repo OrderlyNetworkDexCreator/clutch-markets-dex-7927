@@ -35,7 +35,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex,crypto,clutch, predictions market,parlays,perps,perpetuals,futures,forex,leverage trading,polymarket,kalshi,myriad,tokens,cryptocurrency",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,de,ru,ko,tr,fr,it,nl,tc,vi,id,pt,pl,uk",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#14c220\",\"downColor\":\"#ff0015\",\"pnlUpColor\":\"#2ed219\",\"pnlDownColor\":\"#ff0015\",\"chartBG\":\"#000000\"}",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
