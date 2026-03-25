@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Swap,Vaults,Rewards,Leaderboard",
-  "VITE_CUSTOM_MENUS": "NFT Treasury, https://nft.clutch.market",
+  "VITE_CUSTOM_MENUS": "NFT Treasury, https://nft.clutch.market; Anvil NFT AMM, https://anvil.clutch.market",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/smooviephonehotline",
